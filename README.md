@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jenkinsci/embeddable-build-status-plugin) 
+
 embeddable-build-status-plugin
 ==============================
 Version: **v2.0**
